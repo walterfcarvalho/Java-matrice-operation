@@ -1,4 +1,4 @@
-public class App {
+public class MainClass {
     public static void main(String[] args) throws Exception {
         System.out.println("");
         System.out.println("\r\n");
